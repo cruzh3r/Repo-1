@@ -1,1 +1,3 @@
-# Repo-1
+# Telexa 
+
+Telegram XSS Blind Alert BOT build by javascript :"
