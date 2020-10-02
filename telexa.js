@@ -1,5 +1,5 @@
-var tokenBot = '1117999328:AAHcqLUpYyTzPIL1SW3ZWI5UQKhvmvZbnDY'; // Your "tokenBot" Here
-var chatId = '424571208'; // Your "chatId" Here
+var tokenBot = '###'; // Masukkan token mu
+var chatId = '###'; // Masukkan id chat mu
 
 /*
 	    _____    _     __   __  ___  
